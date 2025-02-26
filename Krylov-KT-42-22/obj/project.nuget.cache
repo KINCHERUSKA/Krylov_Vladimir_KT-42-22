@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZDq+TxH9LN9YLLUR7oW+SQ678+CtViB39J1bn6CthAtGf+EaANZD9go8EXOcEHxPE2xBAOeR6uTcEdAxPkig5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\j-classroom\\source\\repos\\Krylov_Vladimir_KT-42-22\\Krylov-KT-42-22\\Krylov-KT-42-22.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\j-classroom\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "C:\\Users\\j-classroom\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\j-classroom\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\j-classroom\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\j-classroom\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\j-classroom\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\j-classroom\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
