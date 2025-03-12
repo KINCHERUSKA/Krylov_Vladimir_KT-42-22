@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "pOmWSZyBjfruUsCtV8wVodKjV9/WNxutrc864QV1knw=",
+  "Hash": "Q2dF6P3RBW/9d500sgKcJOKyz85CVGwmVz/nIOYfy8g=",
   "Source": "Krylov-KT-42-22",
   "BasePath": "_content/Krylov-KT-42-22",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

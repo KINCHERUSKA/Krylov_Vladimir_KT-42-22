@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\Krylov_Vladimir_KT-42-22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A489EA-79B7-4B46-BB0E-CECCF472F162}|Krylov-KT-42-22\\Krylov-KT-42-22.csproj|d:\\github\\krylov_vladimir_kt-42-22\\krylov-kt-42-22\\database\\configurations\\teacherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A489EA-79B7-4B46-BB0E-CECCF472F162}|Krylov-KT-42-22\\Krylov-KT-42-22.csproj|solutionrelative:krylov-kt-42-22\\database\\configurations\\teacherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A489EA-79B7-4B46-BB0E-CECCF472F162}|Krylov-KT-42-22\\Krylov-KT-42-22.csproj|d:\\github\\krylov_vladimir_kt-42-22\\krylov-kt-42-22\\database\\helpers\\columntype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A489EA-79B7-4B46-BB0E-CECCF472F162}|Krylov-KT-42-22\\Krylov-KT-42-22.csproj|solutionrelative:krylov-kt-42-22\\database\\helpers\\columntype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A489EA-79B7-4B46-BB0E-CECCF472F162}|Krylov-KT-42-22\\Krylov-KT-42-22.csproj|d:\\github\\krylov_vladimir_kt-42-22\\krylov-kt-42-22\\database\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A489EA-79B7-4B46-BB0E-CECCF472F162}|Krylov-KT-42-22\\Krylov-KT-42-22.csproj|solutionrelative:krylov-kt-42-22\\database\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A489EA-79B7-4B46-BB0E-CECCF472F162}|Krylov-KT-42-22\\Krylov-KT-42-22.csproj|d:\\github\\krylov_vladimir_kt-42-22\\krylov-kt-42-22\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A489EA-79B7-4B46-BB0E-CECCF472F162}|Krylov-KT-42-22\\Krylov-KT-42-22.csproj|solutionrelative:krylov-kt-42-22\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\GitHub\\Krylov_Vladimir_KT-42-22\\Krylov-KT-42-22\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Krylov-KT-42-22\\Models\\Teacher.cs",
+              "ToolTip": "D:\\GitHub\\Krylov_Vladimir_KT-42-22\\Krylov-KT-42-22\\Models\\Teacher.cs",
+              "RelativeToolTip": "Krylov-KT-42-22\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:56:16.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherConfiguration.cs",
+              "DocumentMoniker": "D:\\GitHub\\Krylov_Vladimir_KT-42-22\\Krylov-KT-42-22\\Database\\Configurations\\TeacherConfiguration.cs",
+              "RelativeDocumentMoniker": "Krylov-KT-42-22\\Database\\Configurations\\TeacherConfiguration.cs",
+              "ToolTip": "D:\\GitHub\\Krylov_Vladimir_KT-42-22\\Krylov-KT-42-22\\Database\\Configurations\\TeacherConfiguration.cs",
+              "RelativeToolTip": "Krylov-KT-42-22\\Database\\Configurations\\TeacherConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:52:01.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColumnType.cs",
+              "DocumentMoniker": "D:\\GitHub\\Krylov_Vladimir_KT-42-22\\Krylov-KT-42-22\\Database\\Helpers\\ColumnType.cs",
+              "RelativeDocumentMoniker": "Krylov-KT-42-22\\Database\\Helpers\\ColumnType.cs",
+              "ToolTip": "D:\\GitHub\\Krylov_Vladimir_KT-42-22\\Krylov-KT-42-22\\Database\\Helpers\\ColumnType.cs",
+              "RelativeToolTip": "Krylov-KT-42-22\\Database\\Helpers\\ColumnType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:51:56.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UniversityContext.cs",
+              "DocumentMoniker": "D:\\GitHub\\Krylov_Vladimir_KT-42-22\\Krylov-KT-42-22\\Database\\UniversityContext.cs",
+              "RelativeDocumentMoniker": "Krylov-KT-42-22\\Database\\UniversityContext.cs",
+              "ToolTip": "D:\\GitHub\\Krylov_Vladimir_KT-42-22\\Krylov-KT-42-22\\Database\\UniversityContext.cs",
+              "RelativeToolTip": "Krylov-KT-42-22\\Database\\UniversityContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:17:58.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

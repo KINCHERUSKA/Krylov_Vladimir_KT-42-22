@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Krylov-KT-42-22")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f5fd928c0e643bb13d1c4734c6e5955dd3517c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Krylov-KT-42-22")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Krylov-KT-42-22")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
